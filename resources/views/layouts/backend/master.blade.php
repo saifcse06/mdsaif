@@ -64,7 +64,7 @@
                             <div class="lastmonth"></div>
                         </div>
                         <div class=""><small>LAST MONTH</small>
-                            <h4 class="text-info m-b-0 font-medium">$58,256</h4></div>
+                        <h4 class="text-info m-b-0 font-medium">$58,256</h4></div>
                     </div>
                 </div>
             </div>

@@ -22,3 +22,11 @@ Route::get('/home', 'HomeController@index')->name('home');
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+Route::group(["namespace"=>"users",'middleware' => ['auth']], function() {
+
+    Route::resource('roles','RoleController');
+
+    Route::resource('users','UserController');
+
+});
