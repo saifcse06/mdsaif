@@ -49,7 +49,7 @@
         <div class="page-breadcrumb">
             <div class="row">
                 <div class="col-5 align-self-center">
-                    <h4 class="page-title">Dashboard</h4>
+                    <!-- <h4 class="page-title">Dashboard</h4> -->
                     <div class="d-flex align-items-center">
                         <nav aria-label="breadcrumb">
                             <ol class="breadcrumb">
@@ -63,7 +63,7 @@
                         <div class="m-r-10">
                             <div class="lastmonth"></div>
                         </div>
-                        <div class=""><small>LAST MONTH</small>
+                        <div class=""><small></small>
                         <h4 class="text-info m-b-0 font-medium">$58,256</h4></div>
                     </div>
                 </div>
